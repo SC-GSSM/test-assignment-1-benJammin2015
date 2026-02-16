@@ -33,7 +33,7 @@ public class Unit1 {
  public static int castDoubleToInt(double value) {
      // Your code here
      int ans = (int) value;
-     return 0; // Placeholder return
+     return ans; // Placeholder return
  }
 
  /**
