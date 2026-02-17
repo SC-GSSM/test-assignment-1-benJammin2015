@@ -20,6 +20,7 @@ public class Unit1 {
   */
  public static int addIntegers(int a, int b) {
      // Your code here
+     // showing an example
      return a+b; // Placeholder return
  }
 
